@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // 数组中的数据无法直接传递给ListView，需要适配器完成
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(
                 MainActivity.this,android.R.layout.simple_expandable_list_item_1,data);
 
