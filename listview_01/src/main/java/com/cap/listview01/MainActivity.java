@@ -10,8 +10,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String[] data = {"阿尔巴尼亚","安道尔","奥地利","白俄罗斯","保加利亚",
-            "法国","德国","阿尔巴尼亚","意大利","葡萄牙","罗马尼亚","俄罗斯","塞尔维亚","西班牙",};
+    private String[] data = {"woejfefjfiej","dfsfs","fsfd","fsdafsdf","fsfefrrt",
+            "法国","德国","阿尔巴尼亚","意大利","fsdfdsf","罗马尼亚","俄罗斯","塞尔维亚","西班牙",};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
